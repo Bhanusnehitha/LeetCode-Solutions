@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Primality Test
 |  |
@@ -298,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
