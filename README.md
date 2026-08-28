@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
@@ -338,4 +341,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
