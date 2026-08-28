@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0806-number-of-lines-to-write-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
+| [1051-height-checker](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [1051-height-checker](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1051-height-checker) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
