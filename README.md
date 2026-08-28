@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1122-relative-sort-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -142,10 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -211,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
