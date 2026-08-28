@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0806-number-of-lines-to-write-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Primality Test
 |  |
 | ------- |
@@ -49,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
