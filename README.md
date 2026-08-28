@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Counting Sort
 |  |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
@@ -275,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 ## Manacher
 |  |
 | ------- |
@@ -283,9 +289,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
