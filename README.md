@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0046-permutations](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0079-word-search) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0090-subsets-ii) |
@@ -378,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
