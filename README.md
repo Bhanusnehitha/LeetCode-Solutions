@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
+| [0541-reverse-string-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0686-repeated-string-match](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
