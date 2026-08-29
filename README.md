@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0274-h-index) |
+| [0303-range-sum-query-immutable](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
@@ -420,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
