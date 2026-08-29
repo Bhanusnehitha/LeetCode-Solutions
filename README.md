@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0274-h-index) |
+| [0287-find-the-duplicate-number](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0980-unique-paths-iii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -443,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
