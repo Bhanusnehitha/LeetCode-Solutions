@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0806-number-of-lines-to-write-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0980-unique-paths-iii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 ## Two Pointers
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0645-set-mismatch](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
