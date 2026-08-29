@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0980-unique-paths-iii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 | [1051-height-checker](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0980-unique-paths-iii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Recursion
 |  |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
+| [0980-unique-paths-iii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0980-unique-paths-iii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -367,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
