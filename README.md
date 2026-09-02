@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
