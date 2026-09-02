@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Depth-First Search
 |  |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0232-implement-queue-using-stacks](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0232-implement-queue-using-stacks](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 ## Floyd's Cycle Finding Algorithm
 |  |
