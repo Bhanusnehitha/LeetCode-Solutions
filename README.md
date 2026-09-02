@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
