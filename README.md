@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0148-sort-list) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0147-insertion-sort-list](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0148-sort-list) |
