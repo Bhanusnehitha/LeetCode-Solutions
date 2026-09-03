@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0140-word-break-ii) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
