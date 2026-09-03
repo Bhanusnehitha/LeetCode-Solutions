@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
+| [1046-last-stone-weight](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
