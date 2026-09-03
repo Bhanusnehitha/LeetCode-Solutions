@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [1044-longest-duplicate-substring](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1044-longest-duplicate-substring) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1392-longest-happy-prefix](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1392-longest-happy-prefix) |
 | [1668-maximum-repeating-substring](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
 ## Math
 |  |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [1392-longest-happy-prefix](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1392-longest-happy-prefix) |
 | [1668-maximum-repeating-substring](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
 ## Z Algorithm
 |  |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 | [1044-longest-duplicate-substring](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1044-longest-duplicate-substring) |
+| [1392-longest-happy-prefix](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -463,12 +467,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [1044-longest-duplicate-substring](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1044-longest-duplicate-substring) |
+| [1392-longest-happy-prefix](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [1044-longest-duplicate-substring](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1044-longest-duplicate-substring) |
+| [1392-longest-happy-prefix](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1392-longest-happy-prefix) |
 ## Simulation
 |  |
 | ------- |
