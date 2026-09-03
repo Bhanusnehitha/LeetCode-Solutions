@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
+| [1044-longest-duplicate-substring](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1044-longest-duplicate-substring) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Math
 |  |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1044-longest-duplicate-substring](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1044-longest-duplicate-substring) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Sliding Window
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [1044-longest-duplicate-substring](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1044-longest-duplicate-substring) |
 ## Counting Sort
 |  |
 | ------- |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
+| [1044-longest-duplicate-substring](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1044-longest-duplicate-substring) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0686-repeated-string-match](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
+| [1044-longest-duplicate-substring](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1044-longest-duplicate-substring) |
 ## Manacher
 |  |
 | ------- |
@@ -454,11 +459,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
+| [1044-longest-duplicate-substring](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1044-longest-duplicate-substring) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
+| [1044-longest-duplicate-substring](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1044-longest-duplicate-substring) |
 ## Simulation
 |  |
 | ------- |
@@ -658,4 +665,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+## Suffix Array
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1044-longest-duplicate-substring) |
+## Suffix Automaton
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1044-longest-duplicate-substring) |
+## Suffix Tree
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1044-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
