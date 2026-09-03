@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [1044-longest-duplicate-substring](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1044-longest-duplicate-substring) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1668-maximum-repeating-substring](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
 ## Math
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [1668-maximum-repeating-substring](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
 ## Binary Search
 |  |
 | ------- |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [1668-maximum-repeating-substring](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
 ## Z Algorithm
 |  |
 | ------- |
