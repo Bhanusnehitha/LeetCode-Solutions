@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0695-max-area-of-island](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1631-path-with-minimum-effort](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0695-max-area-of-island](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0980-unique-paths-iii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1631-path-with-minimum-effort](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -742,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [1631-path-with-minimum-effort](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Dijkstra's Algorithm
 |  |
