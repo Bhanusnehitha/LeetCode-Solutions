@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0079-word-search) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0131-palindrome-partitioning](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
