@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0806-number-of-lines-to-write-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1668-maximum-repeating-substring](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
 ## Binary Search
 |  |
