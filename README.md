@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1668-maximum-repeating-substring](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
 ## Binary Search
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1631-path-with-minimum-effort](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -640,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Graph Coloring
 |  |
@@ -836,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Knapsack Problem
 |  |
 | ------- |
