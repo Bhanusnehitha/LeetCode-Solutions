@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0686-repeated-string-match](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
+| [0767-reorganize-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [1044-longest-duplicate-substring](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1044-longest-duplicate-substring) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0767-reorganize-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 ## Two Pointers
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0767-reorganize-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
@@ -387,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+| [0767-reorganize-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0912-sort-an-array) |
@@ -456,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0621-task-scheduler](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
