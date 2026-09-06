@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
+| [0516-longest-palindromic-subsequence](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0686-repeated-string-match](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 | [0767-reorganize-string](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0767-reorganize-string) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [0509-fibonacci-number](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
