@@ -583,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0684-redundant-connection](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Graph Coloring
@@ -795,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
