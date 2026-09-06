@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
 ## Binary Search
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
@@ -787,4 +790,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
