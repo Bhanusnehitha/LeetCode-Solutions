@@ -607,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1631-path-with-minimum-effort](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Coloring
@@ -874,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -894,4 +898,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
