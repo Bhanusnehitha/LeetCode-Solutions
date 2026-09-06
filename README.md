@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0091-decode-ways) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0200-number-of-islands) |
@@ -715,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
@@ -737,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
@@ -767,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhanusnehitha/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Iterator
